@@ -1,4 +1,4 @@
-# compareScript
+# SynchronizeScript
 This is simple python script to synchronize two file directories. The script will get the directory names as input, let’s say source, and destination. And makes sure they’re in sync using the following logic:
 
 ●  If a file exists in the source but not in the destination, copy the file over.
